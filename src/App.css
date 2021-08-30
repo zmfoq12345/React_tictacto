@@ -24,6 +24,11 @@ td {
   text-align: center;
 }
 
+td:hover {
+  border-style: double;
+  border-color: #5aa1e2;
+}
+
 button {
   display: inline-block;
   border-radius: 4px;
